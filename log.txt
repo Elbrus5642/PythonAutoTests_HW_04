@@ -1,0 +1,12 @@
+2024-04-08 20:20:50 INFO ====== WebDriver manager ======
+2024-04-08 20:20:51 INFO Get LATEST chromedriver version for google-chrome
+2024-04-08 20:20:52 INFO Get LATEST chromedriver version for google-chrome
+2024-04-08 20:20:53 INFO Driver [C:\Users\user\.wdm\drivers\chromedriver\win64\123.0.6312.105\chromedriver-win32/chromedriver.exe] found in cache
+2024-04-08 20:20:58 INFO Send test in //*[@id="login"]/div[1]/label/input
+2024-04-08 20:20:58 INFO Send test in //*[@id="login"]/div[2]/label/input
+2024-04-08 20:20:58 INFO Click login button
+2024-04-08 20:20:59 INFO We found text 401 in error field //*[@id="app"]/main/div/div/div[2]/h2
+2024-04-08 20:20:59 INFO Send GB2023083b37d8 in //*[@id="login"]/div[1]/label/input
+2024-04-08 20:21:00 INFO Send 42a895f695 in //*[@id="login"]/div[2]/label/input
+2024-04-08 20:21:00 INFO Click login button
+2024-04-08 20:21:01 INFO We found label Hello, GB2023083b37d8 in label field //*[@id="app"]/main/nav/ul/li[3]/a
